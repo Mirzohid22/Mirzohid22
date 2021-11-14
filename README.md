@@ -11,14 +11,8 @@
 
 - 💬 Ask me about **JavaScript, ReactJs or any tech related stuff**
 
-
-🚀 Some of my main projects:
-
-<details> 
- <summary> - 🔭 I’m currently working on 🛒 e-Commerce app  in ReactJs(Redux) and Ant Design </summary>
+ 🔭 I’m currently working on 🛒 e-Commerce app  in ReactJs(Redux) and Ant Design </summary>
 <br>
-
-</details>
 <h1> 📫 Connect with me: </h1>
 
 <p>
