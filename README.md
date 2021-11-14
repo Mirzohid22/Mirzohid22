@@ -29,15 +29,15 @@
 
 <h1>💻 Languages and Tools:</h1>
 <p>
-  <img src="https://img.icons8.com/color/100/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/100/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/100/000000/javascript--v2.png"/>
+  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>
   <img src="https://img.icons8.com/material-outlined/96/ffffff/menu-2.png"/>
-	<img src="https://img.icons8.com/office/100/000000/react.png"/>
-	<img src="https://img.icons8.com/color/100/000000/redux.png"/>
+	<img src="https://img.icons8.com/office/96/000000/react.png"/>
+	<img src="https://img.icons8.com/color/96/000000/redux.png"/>
 	<img src="https://img.icons8.com/material-outlined/96/ffffff/menu-2.png"/>
-	<img src="https://img.icons8.com/color/100/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
+	<img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png"/>
 </p>
 <hr>
 
