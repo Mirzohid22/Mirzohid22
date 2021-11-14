@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mirzohid</h1>
 <h3>Software Engineer from Uzbekistan</h3>
-<p>🎓 I am Currently a 3rd year Student at <a href="https://tuit.uz/" target="_blank">Tashkent University of Information Technology</a></p>
+<p>🎓 I am Currently a 3rd year Student at <a href="https://tuit.uz/" target="_blank">Tashkent University of Information Technologies</a></p>
 <p>
     <img alt="Follow mirzohid salimov" src="https://img.shields.io/static/v1?label=Follow&message=mirzohid-salimov&style=for-the-badge&color=4A90E2&labelColor=222222" />
 </p>
