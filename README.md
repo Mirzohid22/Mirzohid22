@@ -20,6 +20,7 @@
 <a href="mailto:smm2226fhp@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
 </p>
 <hr>
+
 ![Snake animation](https://github.com/Mirzohid22/Mirzohid22/blob/output/github-contribution-grid-snake.svg)
 
 <h1>💻 Languages and Tools:</h1>
