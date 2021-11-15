@@ -4,6 +4,7 @@
 <p>
     <img alt="Follow mirzohid salimov" src="https://img.shields.io/static/v1?label=Follow&message=mirzohid-salimov&style=for-the-badge&color=4A90E2&labelColor=222222" />
 </p>
+
 ![Snake animation](https://github.com/Mirzohid22/Mirzohid22/blob/output/github-contribution-grid-snake.svg)
   
 - 💻 Core Stack: C++, JavaScript 🖤
