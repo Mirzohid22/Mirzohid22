@@ -20,6 +20,7 @@
 <a href="mailto:smm2226fhp@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
 </p>
 <hr>
+![Snake animation](https://github.com/Mirzohid22/Mirzohid22/blob/output/github-contribution-grid-snake.svg)
 
 <h1>💻 Languages and Tools:</h1>
 <p>
@@ -34,7 +35,7 @@
 <hr>
 
 
-![Snake animation](https://github.com/Mirzohid22/Mirzohid22/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="center"><a align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMirzohid22%2FMirzohid22&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a></p>
 
