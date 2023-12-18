@@ -11,9 +11,9 @@
 - 💬 Ask me about **JavaScript, ReactJs, or any tech-related stuff**
 <hr>
 
-![Animated GIF](https://github.com/Mirzohid22/Mirzohid22/assets/78687019/136617a7-d6e1-468a-98fe-f0d301411024)
+![Animated GIF](https://github.com/Mirzohid22/Mirzohid22/assets/78687019/1102e9fe-4dd1-4a70-8098-c3f6d01860da)
 
-<h1>💻 Languages and Tools:</h1>
+<h2>💻 Languages and Tools:</h2>
 <p>
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/96/000000/css3.png"/>
@@ -27,7 +27,7 @@
 <hr>
 <p align="center"><a align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMirzohid22%2FMirzohid22&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a></p>
 <br>
-<h1> 📫 Connect with me: </h1>
+<h2> 📫 Connect with me: </h2>
 <p>
 <a href="https://t.me/smm2226contact" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
 <a href="mailto:smm2226fhp@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
