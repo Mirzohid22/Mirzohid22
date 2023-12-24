@@ -10,9 +10,6 @@
 - 💻 Core Stack: C++, JavaScript, TypeScript 🖤
 - 💬 Ask me about **JavaScript, ReactJs, or any tech-related stuff**
 <hr>
-
-![Animated GIF](https://github.com/Mirzohid22/Mirzohid22/assets/78687019/1102e9fe-4dd1-4a70-8098-c3f6d01860da)
-
 <h2>💻 Languages and Tools:</h2>
 <p>
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
