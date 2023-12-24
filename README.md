@@ -6,7 +6,7 @@
 </p>
 
 ![Snake animation](https://github.com/Mirzohid22/Mirzohid22/blob/output/github-contribution-grid-snake.svg)
-  
+
 - 💻 Core Stack: C++, JavaScript, TypeScript 🖤
 - 💬 Ask me about **JavaScript, ReactJs, or any tech-related stuff**
 <hr>
@@ -23,10 +23,9 @@
 </p>
 <hr>
 <p align="center"><a align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMirzohid22%2FMirzohid22&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a></p>
-<br>
 <h2> 📫 Connect with me: </h2>
 <p>
-<a href="https://t.me/smm2226contact" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
-<a href="mailto:smm2226fhp@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
+<a href="https://t.me/mirzohid22me" target="blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
+<a href="mailto:mirzohidsalimov22@gmail.com" target="blank"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
 </p>
 
